@@ -20,9 +20,13 @@
   },
   "homepage": "https://github.com/KATSU123-nin/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-loader": "^9.2.3",
     "ts-node": "^8.6.2",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.3.5"
+    "typescript": "^4.3.5",
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
     "axios": "^0.19.2"
